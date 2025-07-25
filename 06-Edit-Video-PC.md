@@ -14,8 +14,7 @@
 1. 컴퓨터에서 **Clipchamp**를 찾아서 실행해요.
 <img src="src/06/clipchamp_search_result.png" />
 2. Microsoft 계정으로 로그인할 수도 있어요.
-
-🖼 **캡처할 화면**:  
+ 
 - Clipchamp 처음 실행 화면  
 <img src="src/06/clipchamp_initial_screen.png" />
 - '새 프로젝트 만들기(New Project)' 화면
